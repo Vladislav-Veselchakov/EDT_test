@@ -49,6 +49,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="0437322e-1c77-4e43-85d8-24b50f8020f0">
+    <name>коммент002</name>
+    <synonym>
+      <key>ru</key>
+      <value>Коммент002</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>150</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="2fa73a80-7040-45d3-a7e2-6853caee0e11">
     <name>ФормаЭлемента</name>
     <synonym>
