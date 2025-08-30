@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="376dd17d-ba71-460a-aaf1-3aae44a56280">
+  <name>вл_тест</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вл тест</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="0ba59b77-1758-4c9a-abed-2e938bf013c3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="9b234fd4-40d5-49fc-9dcc-3e92791b38ae"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="a8de08b2-d65b-4705-af57-c3ca36303a95"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="8476c1ea-b033-476a-acba-b1fa7a94dd06"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="aa93b615-e970-46ea-85cb-4f0e50aa0831"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6fbf8f25-83ad-4a49-9ed9-45c099160552"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="0c7a1f74-8c91-418f-ac18-8234b4f1ed38"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.25</compatibilityMode>
+  <languages uuid="1248f45b-adb8-425b-8074-061007db7fd9">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.номенк</catalogs>
+</mdclass:Configuration>
